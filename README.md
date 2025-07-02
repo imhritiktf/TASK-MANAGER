@@ -35,7 +35,7 @@ Backend
 📦 Installation & Setup
 npm or yarn
 # 1. Clone the repository
-git clone https://github.com/imhritiktf/task-manager.git
+git clone https://github.com/imhritiktf/TASK-MANAGER.git
 cd task-manager
 
 # 2. Install server dependencies
